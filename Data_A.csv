@@ -25005,3 +25005,5 @@ CustomerID,Name,Age,Gender,Location,Subscription_Length_Months,Monthly_Bill,Tota
 45865.0,bHARATH KUMAR,50.0,Male,Miami,5.0,148.0,458.0,0.0
 45865.0,bHARATH KUMAR,50.0,Male,Miami,5.0,148.0,458.0,1.0
 45125.0,PRASAD,26.0,Male,New York,10.0,186.0,359.0,0.0
+10236.0,MARY,29.0,Female,New York,2.0,40.0,219.0,0.0
+10236.0,MARY,29.0,Female,New York,2.0,40.0,219.0,0.0
