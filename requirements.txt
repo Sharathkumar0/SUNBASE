@@ -11,3 +11,4 @@ jinja2 == 2.11.3
 markupsafe == 1.1.1
 werkzeug == 1.0.1
 scipy == 1.6.2
+streamlit == 1.24.1
