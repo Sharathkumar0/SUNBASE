@@ -25007,3 +25007,4 @@ CustomerID,Name,Age,Gender,Location,Subscription_Length_Months,Monthly_Bill,Tota
 45125.0,PRASAD,26.0,Male,New York,10.0,186.0,359.0,0.0
 10236.0,MARY,29.0,Female,New York,2.0,40.0,219.0,0.0
 10236.0,MARY,29.0,Female,New York,2.0,40.0,219.0,0.0
+12345,MADAM,59,Female,New York,8,78,365,0.0
