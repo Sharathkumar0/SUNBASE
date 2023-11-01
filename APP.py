@@ -41,13 +41,7 @@ def gfg():
         i = dict(zip(l1,l2))
         
         Test_Data = pd.DataFrame()
-        Test_Data = Test_Data.append(i,ignore_index=True)
-
-        Data_A = pd.read_csv("https://raw.githubusercontent.com/Sharathkumar0/SUNBASE/main/Data_A.csv")
-
-        Data_A = Data_A.append(Test_Data,ignore_index=True)
-
-        
+        Test_Data = Test_Data.append(i,ignore_index=True)        
 
         Encoding_Gender = {'Female': 0.4966372126491822, 'Male': 0.5009816139202232}
         Encoding_Location = {'Chicago': 0.5023632271000893,'Houston': 0.4932437180240546,'Los Angeles': 0.4880537354475553,
